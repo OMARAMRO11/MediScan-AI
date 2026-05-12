@@ -232,6 +232,9 @@ PDF Export
 ## Output : 
 <img width="1894" height="841" alt="لقطة شاشة 2026-05-12 205811" src="https://github.com/user-attachments/assets/ff599c6b-3b6b-4b9c-ae77-baff0ff2686d" />
 
+<img width="1874" height="837" alt="image" src="https://github.com/user-attachments/assets/a7af97cb-59ae-48ad-a9fa-64c810b69dd5" />
+
+
 ## PDF Medical Report
 <img width="537" height="751" alt="image" src="https://github.com/user-attachments/assets/085ee6c3-0ee4-44fe-b070-144a1e04ccc8" />
 
